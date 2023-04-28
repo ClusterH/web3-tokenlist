@@ -30,5 +30,21 @@
     "name": "MCVERSE",
     "symbol": "MCV",
     "logoURI": "https://raw.githubusercontent.com/ClusterH/web3-tokenlist/main/logos/0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4/logo.webp"
+  },
+  "0xB6076C93701D6a07266c31066B298AeC6dd65c2d": {
+    "chainId": 43113,
+    "address": "0xB6076C93701D6a07266c31066B298AeC6dd65c2d",
+    "decimals": 18,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/ClusterH/web3-tokenlist/main/logos/0xB6076C93701D6a07266c31066B298AeC6dd65c2d/logo.webp"
+  },
+  "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E": {
+    "chainId": 43114,
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "decimals": 18,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/ClusterH/web3-tokenlist/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.webp"
   }
 }
